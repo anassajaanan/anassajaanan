@@ -1,6 +1,6 @@
 <h1 style="text-align: center">Hi 👋, I'm Anas Ajaanan</h1>
 <br>
-<p style="text-align: justify; font-size: 20px;" >
+<p style="text-align: justify; font-size: 25px;" >
     I'm a passionate programmer and tech enthusiast who loves to take on complex challenges and experiment with new solutions. I'm constantly exploring new ideas and staying up to date with the latest tech trends and developments.
 </p>
 <br>
