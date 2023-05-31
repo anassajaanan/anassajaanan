@@ -94,7 +94,7 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anassajaanan&show_icons=true&theme=buefy&card_width=490px)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anassajaanan&show_icons=true&theme=buefy&card_width=490px&line_height=33)
 
 ![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=anassajaanan&theme=buefy&line_height=33)
 
