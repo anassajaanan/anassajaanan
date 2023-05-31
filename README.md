@@ -7,7 +7,6 @@
 
 
 <h2 style="color: #44AEFB">Connect with me</h2>
-<hr>
 <br>
 <a href="https://www.instagram.com/anas__ajaanan/" target="_blank">
   <img  alt="anas ajaanan"  src="https://img.icons8.com/fluency/48/instagram-new.png" />
@@ -23,9 +22,8 @@
 
 <!-- Languages and Tools -->
 <h2 style="color: #44AEFB">Languages and Tools</h2>
-<hr>
 <br>   
-<div align="center">
+<div>
   <!-- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img  alt="C" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   </a> -->
@@ -92,7 +90,6 @@
 
 <!-- Statistics -->
 <h2 style="color: #44AEFB">📈 Statistics</h2>
-<hr>
 <br>
 
 <div align="center">
