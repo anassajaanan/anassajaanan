@@ -8,6 +8,9 @@
 
 <h2 style="color: #44AEFB">Connect with me</h2>
 <br>
+<a href="https://www.linkedin.com/in/anas-ajaanan-011297281/" target="_blank">
+  <img  alt="anas ajaanan"  src="https://img.icons8.com/color/48/linkedin.png" />
+</a>
 <a href="https://www.instagram.com/anas__ajaanan/" target="_blank">
   <img  alt="anas ajaanan"  src="https://img.icons8.com/fluency/48/instagram-new.png" />
 </a>
