@@ -89,6 +89,7 @@
 <br>
 <br>
 
+[![An image of @anassajaanan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anassajaanan)](https://holopin.io/@anassajaanan)
 
 
 <!-- Statistics -->
