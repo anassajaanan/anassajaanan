@@ -6,23 +6,24 @@
 <br>
 
 
-<h2 style="color: #44AEFB">Connect with me</h2>
-<br>
-<a href="https://www.linkedin.com/in/anas-ajaanan-011297281/" target="_blank">
-  <img  alt="anas ajaanan"  src="https://img.icons8.com/color/48/linkedin.png" />
-</a>
-<a href="https://www.instagram.com/anas__ajaanan/" target="_blank">
-  <img  alt="anas ajaanan"  src="https://img.icons8.com/fluency/48/instagram-new.png" />
-</a>
-<a href="https://twitter.com/AjaananAnas" target="_blank">
-  <img  alt="anas ajaanan"  src="https://img.icons8.com/color/48/twitter--v1.png" />
-</a>
-<a href="mailto:anasajaanan.official@gmail.com" target="_blank">
-  <img  alt="anas ajaanan"  src="https://img.icons8.com/fluency/48/mail.png" />
-</a>
+<h2 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/anas-ajaanan-011297281/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/anas__ajaanan/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://twitter.com/AjaananAnas" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
+  </a>
+<p/>
+<br> 
+<h2> Hacktoberfest 2023 </h1>
+[![An image of @anassajaanan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anassajaanan)](https://holopin.io/@anassajaanan)
 
-<br>
 
+<br/>
 <!-- Languages and Tools -->
 <h2 style="color: #44AEFB">Languages and Tools</h2>
 <br>   
@@ -88,8 +89,6 @@
 </div>
 <br>
 <br>
-
-[![An image of @anassajaanan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anassajaanan)](https://holopin.io/@anassajaanan)
 
 
 <!-- Statistics -->
