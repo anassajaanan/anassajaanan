@@ -6,7 +6,7 @@
 <br>
 
 
-<h2 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/anas-ajaanan-011297281/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
@@ -17,9 +17,10 @@
   <a href="https://twitter.com/AjaananAnas" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
   </a>
-<p/>
+</p>
 <br> 
-<h2> Hacktoberfest 2023 </h1>
+<h2> Hacktoberfest 2023 </h2>
+	
 [![An image of @anassajaanan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anassajaanan)](https://holopin.io/@anassajaanan)
 
 
