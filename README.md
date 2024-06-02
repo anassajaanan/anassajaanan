@@ -90,14 +90,8 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-      <img  alt="Pycharm" height="50px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"/>
-  </a>
-  <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer">
-      <img  alt="Web Storm" height="50px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg"/>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+      <img  alt="PostMan" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/> 
   </a>
   <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
       <img  alt="Heroku" height="50px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"/> 
