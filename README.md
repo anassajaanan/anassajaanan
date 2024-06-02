@@ -40,20 +40,27 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <img  alt="Docker" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/>
+  </a>
+  <a href="https://nginx.org/en/" target="_blank" rel="noreferrer">
+      <img  alt="Nginx" height="50px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"/>
+  </a>  
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
       <img  alt="Django" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
   </a>
   <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer">
       <img  alt="Flask" height="50px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+  
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+      <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
   </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-      <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-      <img  alt="ExpressJS" height="50px" style="padding-right:10px;" src="https://img.icons8.com/ios/50/express-js.png"/>
+      <img  alt="ExpressJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/>
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
@@ -77,17 +84,11 @@
   <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
       <img  alt="SQLite" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
   </a>
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-      <img  alt="Selenium" height="50px" style="padding-right:10px;" src="https://img.icons8.com/ios/50/selenium-test-automation.png"/>
-  </a>
-      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+  
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
       <img  alt="Bash" height="50px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"/>
   </a>
-  </a>
-	<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-	<img  alt="NPM" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
-  </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
