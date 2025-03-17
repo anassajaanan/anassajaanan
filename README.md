@@ -2,7 +2,7 @@
 <br>
 <p style="text-align: justify; font-size: 25px;" >
     
-a passionate AI engineer and DevOps enthusiast committed to leveraging technology to solve complex, real-world problems. My expertise lies in developing scalable AI solutions that harness advanced machine learning, natural language processing, and intelligent automation to drive digital transformation.
+a passionate AI developer and DevOps enthusiast committed to leveraging technology to solve complex, real-world problems. My expertise lies in developing scalable AI solutions that harness advanced machine learning, natural language processing, and intelligent automation to drive digital transformation.
 
 **Technical Expertise:**
 
