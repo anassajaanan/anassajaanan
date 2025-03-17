@@ -1,7 +1,25 @@
 <h1 style="text-align: center">Hi 👋, I'm Anas Ajaanan</h1>
 <br>
 <p style="text-align: justify; font-size: 25px;" >
-    I'm a passionate programmer and tech enthusiast who loves to take on complex challenges and experiment with new solutions. I'm constantly exploring new ideas and staying up to date with the latest tech trends and developments.
+    
+a passionate AI engineer and DevOps enthusiast committed to leveraging technology to solve complex, real-world problems. My expertise lies in developing scalable AI solutions that harness advanced machine learning, natural language processing, and intelligent automation to drive digital transformation.
+
+**Technical Expertise:**
+
+-   **Artificial Intelligence:**  
+    Crafting and deploying sophisticated machine learning models, natural language processing solutions, and large language models (LLMs). I specialize in Retrieval-Augmented Generation (RAG) and model fine-tuning using tools like Hugging Face Transformers, LlamaIndex, and Langchain, as well as orchestrating seamless AI workflows.
+    
+-   **DevOps & Cloud:**  
+    Ensuring high-performance and reliable deployments through Docker, Kubernetes, and Amazon EKS/ECS/EC2. I’m passionate about automating deployment pipelines and maintaining robust, scalable systems that can handle cutting-edge AI applications.
+    
+-   **Web Development:**  
+    Building efficient, user-friendly applications using frameworks like Django for rapid development, alongside Flask, Node.js, and Express.js for dynamic API and backend solutions.
+    
+-   **Programming & Data Management:**  
+    Proficient in C, C++, Python, and JavaScript, with hands-on experience managing databases including MariaDB, MongoDB, PostgreSQL, and SQLite.
+    
+
+I'm the driving force behind LegalAI, the UAE’s first AI-powered legal assistant that transforms complex legal information into instant, reliable insights. By combining my passion for AI with advanced DevOps practices, I strive to create systems that not only innovate but also empower users to access technology-driven solutions seamlessly.
 </p>
 <br>
 
@@ -46,9 +64,9 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
       <img  alt="Docker" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/>
   </a>
-<!--   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
       <img  alt="kubernetes" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"/>
-  </a> -->
+  </a>
   <a href="https://nginx.org/en/" target="_blank" rel="noreferrer">
       <img  alt="Nginx" height="50px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"/>
   </a>  
@@ -56,7 +74,7 @@
       <img  alt="Django" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
   </a>
   <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer">
-      <img  alt="Flask" height="50px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"/>
+      <img  alt="Flask" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"/>
   </a>
   
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
